@@ -1,5 +1,5 @@
 # fintechweb
 
-### Deploy (Vercel)(https:://fintechweb-six.vercel.app)
+### Deploy (Vercel) (https:://fintechweb-six.vercel.app)
 
 
